@@ -1,0 +1,51 @@
+---
+title: "Venom from honeybees VS aggressive breast cancer cells"
+description: |
+  First analysis about venom in medicine.
+author:
+  - name: Decoux Benjamin
+    url: {}
+categories:
+  - "English for Science"
+date: 11-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+## Article information
+
+Source: https://www.sciencedaily.com/releases/2020/09/200901093412.htm
+Word count:766
+Date of publication :2020/10/02
+
+## Vocabulary
+
+| Word from the text  | Synonym/definition in English                          | French Translate      |
+| ------------------- | ------------------------------------------------------ | --------------------- |
+| Breast              | mammary gland                                          | Sein                  |
+| Mirrored            | act like                                               | Immité                |
+| Viability           | Vitality                                               | Vitalité              |
+| Potent              | powerfull                                              | Puissant              |
+| Substantially       | significantly                                          | Sensiblement          |
+| Signalling pathways | series of chemical reaction to control a cell function | Voies de transmission |
+| Enhance             | intensify;increase                                     | Favoriser             |
+| Assess              | evaluate                                               | Déterminer            |
+
+## Analysis table
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| the Harry Perkins Institute of Medical Research and The University of Western Australia           	|
+| General topic? 	| The utility of honeybees venom to fight breast cancer cells ( Mainly triple-negative breast cancer and HER2-enriched breast cancer cells)	|
+| Procedure/what was examined? 	| Their objective was to uses the anti-cancer propriety of honeybee venom ,and mainly one of his compound:melittin, on different types of breast cancer cells.So they reproduce metillin synthetically and tested the effect on normal breast cells and cells from subtypes of breast cancer. 	|
+| Conclusions/discovery? 	| It's extremely potent ! For triple-negative breast cancer and HER2-enriched breast cancer cells it can kill all of them while having low impacts on normal cells.In 20m some chemical messages, essential for the cell growth and division,were substantially reduced. Then at 60m it destroyed all the cell membranes.With that knowledge we could maybe use melittin with other molecules or chemotherapies.|
+| Remaining questions? 	| A lot of studies still needed to assess the toxicities,maximum tolerated doses and the optimum method of delivery. 	|
