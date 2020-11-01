@@ -17,14 +17,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 ## Article information
 
 Source: https://www.sciencedaily.com/releases/2020/09/200901093412.htm
+
 Word count:766
+
 Date of publication :2020/10/02
 
 ## Vocabulary
