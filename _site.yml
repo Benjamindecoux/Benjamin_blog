@@ -14,6 +14,7 @@ navbar:
 base_url: Benjamindecoux.github.io/Benjamin_blog/
 collections:
     posts:
+      disqus: benjamins-blog-2
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
