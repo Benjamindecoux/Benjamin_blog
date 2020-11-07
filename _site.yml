@@ -16,7 +16,7 @@ collections:
     posts:
       disqus: benjamins-blog-2
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      
 output:
   distill::distill_article:
     css: style.css
