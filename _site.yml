@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/Benjamindecoux/Benjamin_blog.git
-base_url: Benjamindecoux.github.io/Benjamin_blog/
+base_url: https://Benjamindecoux.github.io/Benjamin_blog/
 collections:
     posts:
       disqus: benjamins-blog-2
