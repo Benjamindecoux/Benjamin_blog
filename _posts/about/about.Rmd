@@ -1,11 +1,14 @@
 ---
 title: "About Me"
-author:
+author: Decoux Benjamin
   - name: "___" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
-
-- first name/surname, teacher’s name, class name and academic year
+Hi, I'm Benjamin Decoux. I'm student at the university of Mons in Biology.
+And more specifically in "BAB2" for the academic year of 2020-2021.
+This blog is created for the "SDD" and "English for science" curses.
+Teachers:
+-SDD: Mr.Grosjean
+-English for science: Mr.Devilez 
