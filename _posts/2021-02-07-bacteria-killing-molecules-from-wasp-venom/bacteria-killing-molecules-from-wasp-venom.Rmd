@@ -1,0 +1,57 @@
+---
+title: "bacteria-killing molecules from wasp venom"
+description: |
+  Fourth analysis about venom in medicine.
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 02-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article information
+
+Source: https://www.sciencedaily.com/releases/2020/10/201012164223.htm
+
+Word count: 744
+
+Date of publication :October 12, 2020 
+
+## Vocabulary
+
+| Word from the text | Synonym/definition in English | French Translate |
+| ------------------ | ----------------------------- | ---------------- |
+| Harm               | Hurt/threaten                 | Nuire            |
+| Enhance            | Improve                       | Améliorer        |
+| Strains            | Stump                         | Souches          |
+| Damp down          | Curb                          | Etouffer/freiner |
+| Harness            | Exploit                       | Exploiter        |
+
+## Analysis of the research
+
+### who are the researchers?
+
+University of Pennsylvania School of Medicine 
+
+### what’s the general topic?
+
+Scientists engineer new antimicrobial molecules from wasp venom (Vespula lewisii). These molecules called “mast-MO “ could help to counter antibiotic-resistant bacteria strains.
+
+### How was “mast-MO” created?
+
+All start with the venom of Vespula lewisii, the Korean yellow-jacket wasp, he’s not dangerous to humans because of the small doses delivered by the stings, but it is still quite toxic. (it can triggers a type of allergic/inflammatory reaction). But the main point that interested the researchers is the fact that the venom is also toxic to bacterial species.
+At the origin of these reaction there is a small protein called mastoparan-L. This protein is the starting point of “mast-MO”. Scientist wanted to make it less toxic for human cells and at the same time more potent to kill bacteria.
+To do so they replaced the region that is thought to be source of toxicity to human cells by a pentapeptide motif that is associated with a strong activity against bacteria.
+
+### The result:
+To test it they treated mice with mast-Mo after infecting them with strains of the bacteria E. coli or Staphylococcus aureus. 80% of the mice survived to the test. While mice treated directly with mastoparan-L showed severe toxic side-effects with high doses and survived less.
+The researchers created dozens of mast-MO to find the more potent. They now hope to develop on of these molecules into new antibiotics.
+
+
+
