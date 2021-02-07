@@ -1,0 +1,60 @@
+---
+title: "Sea snail,human insulin hybrid"
+description: |
+  Third analysis about venom in medicine
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 02-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article information
+
+Source: https://www.sciencedaily.com/releases/2020/06/200602183236.htm
+
+Word count:756
+
+Date of publication :June 2, 2020 
+
+## Vocabulary
+
+| Word from the text | Synonym/definition in English | French Translate     |
+| ------------------ | ----------------------------- | -------------------- |
+| Jump-start         | awaken/boost                  | (re)lancer           |
+| Plume              | Panache                       | Panache              |
+| Plummet            | dive                          | Chuter               |
+| Flounders          | Wade/struggle                 | Patauger/se débattre |
+| Subdue             | Lowered                       | Soumis               |
+| Tightly            | Firmly                        | Fermement            |
+| Hinge              | Junction                    | Charnière            |
+| Clump              | Aggregate                     | Se regrouper         |
+| Backbone           | Frame                         | Ossature/charpente   |
+| Truncated          | Shorten                       | Ecourté              |
+| Tremendous         | Huge                          | Enorme/Formidable    |
+
+## Analysis of the research.
+
+### who are the researchers?
+University of Utah Health 
+ 
+### What’s the general topic?
+Researchers have created a hybrid insulin based on the human one and the insulin contained in the sea snail’s venom (cone snails) that could lead to better diabete treatments.
+ 
+### How did they created it?
+The snail parts: Cone snails have a unique form of insulin in their venom that causes fish blood glucose levels to plummet to paralyses them. But it is exactly what we are looking for when we are diabetiques. This insulin has also a lot in common with the human one.  But the main point is that it act way faster than the human one.
+
+The human parts: the advantage of the human insulin is obviously that it is made for human so it’s more potent when binding with the insulin receptor. But is slower than the snail insulin because it clump to be easier to stock in the pancreas and then break up into individual pieces again.
+
+The hybrid results: The idea is simple take some of the advantageous parts of the snail’ s insulin and graft them onto the human compound. But in practice it’s more difficult : they first isolated 4 amino-acids that help the snail insulin bind to the insulin receptor. Then created a truncated human insulin without the region responsible for clumping. And at the end combine both to create “mini-insulin”.
+
+### Conclusion:
+ This more snail like insulin called “Mini insulin” is faster and as potent as the human one while being smaller so it should be easier to synthesize. It could be use in type-1 diabete to rapidly restore equilibrium in their bodies. It may improve the performance of insulin pumps or artificial pancreas devices (these devices release insulin into the body when needed).
+
+
