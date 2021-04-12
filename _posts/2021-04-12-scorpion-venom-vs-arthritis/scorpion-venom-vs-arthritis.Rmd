@@ -1,0 +1,55 @@
+---
+title: "scorpion venom vs arthritis"
+description: |
+  Seventh analysis about venom in medicine
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 04-12-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article information
+
+Source :https://www.sciencedaily.com/releases/2020/03/200304141628.htm
+
+Date of publication : 4/03/2020
+
+word count : 853
+
+## Vocabulary
+
+| Word from the text | Synonym/definition in English | French Translate |
+| ------------------ | ----------------------------- | ---------------- |
+| Tradeoff           | Compromise                    |  Compromis       |
+| Arthritis          | Disorder that affects joints  | Arthrose         |
+| Joints             | Knuckle                       | Articulation     |
+
+## Analysis
+
+###who are the researchers ?
+
+Scientists at Fred Hutchinson Cancer Research Center 
+
+### What’s the general topic?
+ 
+a tiny protein in scorpion venom could maybe lead to better arthritis treatment.
+
+### What was examined ?
+
+They noticed that this protein rapidly accumulates in joints cartilage and immediately think of it in a medical way . 
+Drugs for arthritis are often risky causes they are nontargeted steroid treatment .
+So the idea is to uses that protein like “a gps” for steroid
+The objective is a drug that would go to cartilage, stay as long as needed, release the drug at the right rate,  have only a local . 
+
+### The results :
+
+There is more development to be done but it ‘s promising. Arthritis occures very often and the main treatments have a lot of side effects this is why this research is really important.
