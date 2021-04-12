@@ -1,0 +1,61 @@
+---
+title: "cone venom vs malaria"
+description: |
+  Fifth analysis about venom in medicine
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 04-12-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article information
+
+Source:https://www.sciencedaily.com/releases/2021/02/210218094534.htm
+Word count:566
+Date of publication : 18/02/2021
+
+## Vocabulary
+
+| Word from the text | Synonym/definition in English | French Translate |
+| ------------------ | ----------------------------- | ---------------- |
+| Blockade           | Blockage                      | Blocage          |
+| Couteracting       | Prevent                       | Contrecarrer     |
+| Myriad             | Countless                     | Myriade          |
+| Conotoxins         | Neurotoxins from cone         | Conotoxines      |
+| Probes             | Investigation                 | Sondes           |
+| Thwart             | Counteracting                 | Contrecarrer     |
+| Foil               | Thwart                        | déjouer          |
+| Toiling            | Work like a Trojan            | Trimer           |
+| Yield              | Hand over                     | Livrer           |
+| Noteworthy         | Notable                       | Remarquable      |
+
+## Analysis table
+
+### who are the researchers?
+
+This study come from the Florida Altantic University.
+
+### what’s the general topic?
+
+Researchers may have discover a new treatment for malaria by using the cone snail’s venom. This could also be a treatment for a myriad of other diseases.
+
+### What was examined ?
+
+The conotoxines in the venom . Because it has the ability to disrupt protein-protein and protein-polysaccharide interactions (this is the main point of blackage therapy.) wich are an important thing in countless diseases. They are used in the venoms to modulate the central nervous system of prey by inhibiting ion channels and receptors.
+
+### The results :
+
+They discovered that six venoms fractions had the capacity to disrupt these interactions for the pathology of P. falciparum malaria.
+In these 6 fractions only a limited set of peptides are efficient and those few peptides could help to cure a lot of diseases from malaria to covid .
+
+
+
