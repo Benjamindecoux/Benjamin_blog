@@ -1,0 +1,53 @@
+---
+title: "venom and muscle protein"
+description: |
+ sixth analysis about venom in medicine.
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 04-12-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article information
+
+Source : https://www.sciencedaily.com/releases/2020/04/200415133644.htm
+
+Date of publication : 15/04/2020
+
+word count : 528
+
+## Vocabulary
+
+| Word from the text | Synonym/definition in English                                                | French Translate |
+| ------------------ | ---------------------------------------------------------------------------- | ---------------- |
+| Flash froze        | Flash freezing is the process whereby objects are frozen in just a few hours |  /               |
+| Tremendous         | Huge                                                                         | Enorme           |
+| Sheds the light    | Enlighten,elucidate                                                          | Faire la lumière |
+| Spinal cord        | Long,thin tubular strucutre made up of nervous tissues                       | Moelle épinière  |
+
+### who are the researchers ?
+
+Researchers are from UT Southwestern Medical Center .
+
+### what’s the general topic?
+
+By using snake venom and new technologies they discovered a tremendous amount of new information about a receptor protein involved in muscle contraction.
+
+### How did they make it possible ?
+
+The protein is a nicotin receptor which usually binds with acethylcholine but it can also binds with some toxins from venom. These toxins are bigger than acethylcholine. So they combines toxins and special tissues with a huge amount of the receptors.
+And then they used a technology called “cryogenic electron microscopes  (cryo-EM)” to get the image.
+
+### What’s the results ?
+
+With the association of these 2 things (venom and cryo-EM) they were abled to get a very detailed 3d picture of the receptor protein.
+The picture allows us to get a better understanding of a lot of things like how toxins works with these receptors to paralyze. It will also help for several genetic diseases that cause muscle weakness .

@@ -20,7 +20,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article information
 
 Source:https://www.sciencedaily.com/releases/2021/02/210218094534.htm
+
 Word count:566
+
 Date of publication : 18/02/2021
 
 ## Vocabulary
