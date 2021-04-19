@@ -1,0 +1,28 @@
+---
+title: "introduction"
+description: |
+ Introduction of the blog subject.
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 04-19-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#Introduction
+
+What comes to your mind when you hear the word venom? You probably associate it to things like danger, weapon, some terrifying creatures or … A mainly enzymatic chemical and toxic substance? (or is it only me?)
+
+If so i will not say that you are wrong but a bit narrow-minded. Thanks to modern sciences, venom is now, way more than that.
+
+The complex substance shines before everything else in medicine. A lot of you already know that we use venom to fight venom in what is called anti-venom yet it is only a small part of diseases that venom can help to cure. We have been using a lot of natural substances so far as plant for drugs so why not venom. And as for plant, venoms are all different with variable effects which means that there are plenty of possibilities to work with.
+
+My objective there is to show that a lot of venom s types can solve a lot of health problem. But also to change the mind of people who sees venom as an horrific thing. I know that venom is also feared cause animals that uses it are often related with phobia (wasp, snake, spider, scorpion,…). Therefore this document could maybe serve this cause.
