@@ -1,0 +1,36 @@
+---
+title: "Conclusion"
+description: |
+  Conclusion of the blog subject.
+author:
+  - name: Decoux Benjamin
+    url: {}
+date: 04-19-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#Conclusion
+
+This time again nature inspired scientist to innovate and not just a little
+
+it went way beyond the expectations I had: we are talking about possible cure for arthritis, malaria, even cancer cells by using mainly the propriety to kill of the venom.
+
+As you can see, a lot of the studies are not finished yet but still they are promising and will get more concrete results as technologies evolves and venoms are analyzed. Who knows maybe somewhere in venom hides a cure to the well-known COVID.
+
+I also noticed that a huge part of the discoveries are related to the development of new tools. As technologies grow step by step (but at a great speed), new research are made possible. The exploitation of component in venom is still recent consequently it can only go further. Keep an eye on it, one day you will probably uses drugs made from venom coming from creatures that you once feared.
+
+I really hope that I succeeded at showing you a whole new and resplendent
+
+part of what venom can be.
+
+So always keep in mind that science is wonderful and is able to transform a deadly weapon in miracle cure.
+
+Thanks for reading, hope you enjoyed!
