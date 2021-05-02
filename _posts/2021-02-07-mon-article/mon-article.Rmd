@@ -19,43 +19,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Article information
 
-Source: https://www.sciencedaily.com/releases/2020/06/200602183236.htm
+Source: https://www.sciencedaily.com/releases/2020/09/200921100347.htm
 
-Word count:756
+Word count: 521
 
-Date of publication :June 2, 2020 
+Date of publication: September 21, 2020 
 
 ## Vocabulary
 
-| Word from the text | Synonym/definition in English | French Translate     |
-| ------------------ | ----------------------------- | -------------------- |
-| Jump-start         | awaken/boost                  | (re)lancer           |
-| Plume              | Panache                       | Panache              |
-| Plummet            | dive                          | Chuter               |
-| Flounders          | Wade/struggle                 | Patauger/se débattre |
-| Subdue             | Lowered                       | Soumis               |
-| Tightly            | Firmly                        | Fermement            |
-| Hinge              | Junction                    | Charnière            |
-| Clump              | Aggregate                     | Se regrouper         |
-| Backbone           | Frame                         | Ossature/charpente   |
-| Truncated          | Shorten                       | Ecourté              |
-| Tremendous         | Huge                          | Enorme/Formidable    |
+| Word from the text | Synonym/definition in English | French Translate         |
+| ------------------ | ----------------------------- | ------------------------ |
+| Bowel              | Gut                           | Intestin                 |
+| Span               | Stretch                       | Envergure                |
+| Pain relief        | painkiller/analgesic          | Anti-douleur/analgésique |
+| To screen          | To examine/review             | Examiner                 |
+| Array              | Arrangement                   | Arsenal/gamme/éventail   |
+| Potent             | efficient                     | Efficace                 |
+| Bladder            |   /                           | Vessie                   |
 
-## Analysis of the research.
+## Analysis table
 
-### who are the researchers?
-University of Utah Health 
- 
-### What’s the general topic?
-Researchers have created a hybrid insulin based on the human one and the insulin contained in the sea snail’s venom (cone snails) that could lead to better diabete treatments.
- 
-### How did they created it?
-The snail parts: Cone snails have a unique form of insulin in their venom that causes fish blood glucose levels to plummet to paralyses them. But it is exactly what we are looking for when we are diabetiques. This insulin has also a lot in common with the human one.  But the main point is that it act way faster than the human one.
-
-The human parts: the advantage of the human insulin is obviously that it is made for human so it’s more potent when binding with the insulin receptor. But is slower than the snail insulin because it clump to be easier to stock in the pancreas and then break up into individual pieces again.
-
-The hybrid results: The idea is simple take some of the advantageous parts of the snail’ s insulin and graft them onto the human compound. But in practice it’s more difficult : they first isolated 4 amino-acids that help the snail insulin bind to the insulin receptor. Then created a truncated human insulin without the region responsible for clumping. And at the end combine both to create “mini-insulin”.
-
-### Conclusion:
- This more snail like insulin called “Mini insulin” is faster and as potent as the human one while being smaller so it should be easier to synthesize. It could be use in type-1 diabete to rapidly restore equilibrium in their bodies. It may improve the performance of insulin pumps or artificial pancreas devices (these devices release insulin into the body when needed).
-
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| University of Queensland-led researchers .           	|
+| General topic? 	| Reschearchers wants to use the venom of the Venezuelan Pinkfoot Goliath tarantula to create a pain relief for irritable bowel syndrome (IBS). IBS is a common condition that affects the digestive system that can last for days, month, or even for life.	|
+| Procedure/what was examined? 	| Pains in these diseases are mainly due to hypersensitivity of nerves with a wide array of voltage-gated ion channels.So they were looking for specific peptides in the venom that could be potent and at the same time target sodium channels related to the visceral pain (and only this one) and inhibit them . 	|
+| Conclusions/discovery? 	| They found 2 of these rare peptides with one particularly potent at reducing the  sensory nerves of the bladder and close to stop the chronic pain in the IBS. The more efficient one is now a potential treatment for pain in IBS|
+| The bonus of research! 	| More than that the understanding of the structure and functions of peptides in these spider venoms has made a huge progress.The others peptides can maybe be used as tools to understand drivers of pain in different diseases.
